@@ -124,11 +124,11 @@ footer a:not(.nav-link) {
     width: auto;
     max-width: 100%;
     padding: 0; }
-  .cover, .cover-bg {
+  .cover, .cover-bg, .cover-bg-footer {
     border-radius: 0; }
   .cover.shadow-lg {
     box-shadow: none !important; }
-  .cover-bg {
+  .cover-bg, .cover-bg-footer {
     padding: 5rem !important;
     padding-bottom: 10px !important; }
   .avatar {
